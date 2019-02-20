@@ -1,5 +1,5 @@
 # ImageServer
-This program allows to IP addresses on the same network to send images to each other. 
+This program allows two IP addresses on the same network to send images to each other. 
 
 Use Linux to run
 
