@@ -1,4 +1,6 @@
 # ImageServer
+This program allows to IP addresses on the same network to send images to each other. 
+
 Use Linux to run
 
 1. Compile both the server and client cpp file
